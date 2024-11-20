@@ -9,7 +9,7 @@ import currentWeekData from '../../week-1-data.json'
 
 export default function AdminDashboard() {
     const [teams, setTeams] = useState(teamData)
-    const [weekData, setWeekData] = useState(currentWeekData)
+    const [, setWeekData] = useState(currentWeekData)
     const [searchTerm, setSearchTerm] = useState('')
     const [attendancePopup, setAttendancePopup] = useState<{ isOpen: boolean; teamId: number | null }>({ isOpen: false, teamId: null })
     const [questionsModal, setQuestionsModal] = useState<{ isOpen: boolean; teamId: number | null }>({ isOpen: false, teamId: null })
