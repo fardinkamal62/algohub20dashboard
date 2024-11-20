@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "team": "Alpha Coders",
+    "currentScore": 2500,
+    "previousScore": 2400,
+    "members": [
+      {
+        "name": "Alice",
+        "present": false
+      },
+        {
+            "name": "Bob",
+            "present": true
+        },
+        {
+            "name": "Charlie",
+            "present": true
+        }
+    ]
+  },
+  {
+    "id": 2,
+    "team": "Beta Builders",
+    "currentScore": 2350,
+    "previousScore": 2500,
+    "members": [
+      {
+        "name": "David",
+        "present": true
+    },
+    {
+        "name": "Eve",
+        "present": false
+    },
+    {
+        "name": "Frank",
+        "present": true
+    }]
+  },
+  {
+    "id": 3,
+    "team": "Gamma Devs",
+    "currentScore": 2200,
+    "previousScore": 2200,
+    "members": [
+        {
+            "name": "Grace",
+            "present": true
+        },
+        {
+            "name": "Henry",
+            "present": true
+        },
+        {
+            "name": "Ivy",
+            "present": true
+        }
+    ]
+  },
+  {
+    "id": 4,
+    "team": "Delta Hackers",
+    "currentScore": 2100,
+    "previousScore": 1950,
+    "members": [
+        {
+            "name": "Jack",
+            "present": true
+        },
+        {
+            "name": "Kate",
+            "present": true
+        },
+        {
+            "name": "Liam",
+            "present": true
+        }
+    ]
+  },
+  {
+    "id": 5,
+    "team": "Epsilon Engineers",
+    "currentScore": 2000,
+    "previousScore": 2100,
+    "members": [
+        {
+            "name": "Mia",
+            "present": true
+        },
+        {
+            "name": "Nick",
+            "present": true
+        },
+        {
+            "name": "Olivia",
+            "present": true
+        }
+    ]
+  }
+]

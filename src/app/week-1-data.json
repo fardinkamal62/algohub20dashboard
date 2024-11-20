@@ -1,0 +1,24 @@
+[
+  {
+    "team": 1,
+    "score": 2500,
+    "questions": [
+      {
+        "team": 2,
+        "score": 1
+      },
+        {
+            "team": 3,
+            "score": 1
+        },
+        {
+            "team": 4,
+            "score": -1
+        },
+      {
+        "team": 5,
+        "score": 0
+      }
+    ]
+  }
+]
